@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjay M D</h1>
+<h1 align="center">Hey 👋, I'm Sanjay M D</h1>
 <h3 align="center">A Passionate Frontend Programmer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaymadhal" alt="sanjaymadhal" /></a> </p>
