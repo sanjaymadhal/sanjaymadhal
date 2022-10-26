@@ -5,11 +5,11 @@
 
 - Hi, I'm a Student **Currently Pursuing B.E in Computer Science**
 
-- 🌱 I’m currently learning **Java, Bootstrap.**
+- 🌱 I’m currently learning **Java, Bootstrap, Typescript**
 
 - 🤝 Collaborate with me: **Html, CSS, JS, Python.**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available at [Coming Soon]
 
 - 💬 Ask me about **C, C++, Python.**
 
