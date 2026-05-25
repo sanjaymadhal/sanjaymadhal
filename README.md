@@ -37,9 +37,6 @@
   <rect x="310" y="98" width="280" height="3" rx="2" fill="url(#accent)" opacity="0.8"/>
   <!-- Subtitle -->
   <text x="450" y="132" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#64b5f6" text-anchor="middle" letter-spacing="1">AI &amp; GenAI Engineer  ·  LLM Application Developer  ·  RAG Systems</text>
-  <!-- Tag -->
-  <rect x="348" y="148" width="204" height="24" rx="12" fill="#64b5f6" fill-opacity="0.15" stroke="#64b5f6" stroke-opacity="0.4" stroke-width="1"/>
-  <text x="450" y="164" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#64b5f6" text-anchor="middle" letter-spacing="1.5">🟢 OPEN TO AI ENGINEER ROLES</text>
 </svg>
 </p>
 
