@@ -1,142 +1,159 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sanjay%20M%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:1a1a2e,100:16213e&height=260&section=header&text=Sanjay%20M%20D&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20GenAI%20Engineer%20%7C%20LLM%20Application%20Developer&descAlignY=60&descSize=18&descColor=64b5f6" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+GenAI+Engineer;RAG+%7C+LangChain+%7C+VectorDB+Developer;Building+Intelligent+AI+Applications;Open+to+AI+Engineer+Roles;FastAPI+%7C+Django+%7C+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=64B5F6&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;RAG+Pipelines+%7C+LangChain+%7C+LLM+Apps;LLM+Agents+%7C+Vector+Databases+%7C+FastAPI;1+Year+SWE+Intern+%E2%86%92+Upskilling+into+AI+Engineering;Open+to+AI+Engineer+%2F+GenAI+Engineer+Roles" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjaymadhal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-# 👨‍💻 About Me
-
-Hi there! I'm **Sanjay M D**, an aspiring **AI & GenAI Engineer** passionate about building intelligent, scalable, and impactful AI-powered applications.
-
-💼 Previously worked as a **Software Engineer Intern** and currently focused on securing opportunities in **AI Engineering**, **Generative AI**, and **LLM Application Development**.
-
-🚀 I specialize in building systems using:
-- RAG Pipelines
-- LangChain
-- Vector Databases
-- FastAPI & Django
-- Generative AI Workflows
-
-### ✨ Fun Facts About Me
-- 🧠 Obsessed with AI, automation, and intelligent systems
-- ⚡ Love building real-world GenAI applications
-- 📚 Constantly learning emerging AI technologies
-- 🎥 Passionate about tech content creation and sharing knowledge
-- ☕ Turning coffee into AI-powered products
-
----
-
-# 🚀 Tech Stack
-
-## 🖥 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-## ⚙ Backend
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-## 🤖 AI / GenAI
-<p>
-  <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VectorDB-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-FF4B4B?style=for-the-badge" />
-</p>
-
-## 🛠 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-m-d">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanjay_M_D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjay%20M%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=sanjaymadhal&label=Profile+Views&color=64b5f6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-AI%20Engineer%20Roles-22c55e?style=for-the-badge&logo=circle&logoColor=white" />
+</p>
 
-  <a href="https://youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+---
+
+## 🧠 Who Am I?
+
+```python
+sanjay = {
+    "name":       "Sanjay M D",
+    "role":       "AI & GenAI Engineer",
+    "experience": "1 Year SWE Intern @ PyGenicArc → Now Full AI Focus",
+    "location":   "India 🇮🇳",
+    "building":   ["RAG Pipelines", "LLM Agents", "AI-Powered Apps"],
+    "seeking":    ["AI Engineer", "GenAI Engineer", "LLM Application Developer"],
+    "obsessed_with": "Turning messy real-world problems into intelligent AI solutions"
+}
+```
+
+> 🎯 **Transitioned from software engineering internship into AI/GenAI — now building production-ready LLM applications, RAG systems, and AI agents.**
+
+---
+
+## 🤖 AI / GenAI Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧩 LLMs & Orchestration
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E40C9?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🗃️ Vector Databases & RAG
+![FAISS](https://img.shields.io/badge/FAISS-0078D4?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-4BC9F0?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-FF6F61?style=for-the-badge)
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🛠️ Tools & MLOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+### 🏢 Software Engineer Intern — **PyGenicArc** *(1 Year)*
+- Developed and maintained backend services using **Python, Django & FastAPI**
+- Built and integrated **REST APIs** for production web applications
+- Collaborated with cross-functional teams in an agile environment
+- Gained strong software engineering fundamentals — now applying them to **AI system design**
+
+> 📌 *Post-internship, I shifted focus entirely to AI/GenAI engineering — upskilling in LLMs, RAG, vector databases, and AI agents.*
+
+---
+
+## 🚀 What I'm Building
+
+| Area | What I Focus On |
+|------|----------------|
+| 🔍 **RAG Systems** | Document ingestion pipelines, semantic search, context-aware Q&A |
+| 🤖 **LLM Agents** | Tool-calling agents, multi-step reasoning, LangChain & LlamaIndex agents |
+| 🗃️ **Vector Search** | FAISS, ChromaDB, Pinecone — embedding strategies & retrieval optimization |
+| ⚡ **API Backends** | FastAPI + LLM integration, streaming responses, async pipelines |
+| 📊 **AI Apps** | End-to-end intelligent apps with Streamlit & custom frontends |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaymadhal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaymadhal&theme=tokyonight&hide_border=true" height="175em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaymadhal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjaymadhal&theme=onestar&no-frame=true&margin-w=12&margin-h=12&column=7" />
+</p>
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building **production-grade RAG and LLM Agent projects** for my portfolio
+- 📖 Deep-diving into **AI Agents, Agentic Workflows & LLM Fine-tuning**
+- 💡 Exploring **LangGraph, CrewAI, AutoGen** for multi-agent systems
+- 🎯 **Actively seeking roles** as AI Engineer / GenAI Engineer / LLM Developer
+- 🤝 Open to **freelance AI projects, collaborations, and open-source contributions**
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjay-m-d">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+  &nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://medium.com/">
-    <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaymadhal&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaymadhal&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaymadhal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjaymadhal&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-# 🎯 Current Focus
-
-- 🔍 Actively looking for opportunities as an **AI Engineer / GenAI Engineer**
-- 🤖 Building LLM-powered applications and RAG systems
-- 🚀 Exploring AI Agents, Automation & Scalable AI Architectures
-- 📈 Improving real-world AI product development skills
-
----
-
-# 💡 Quote I Believe In
-
-> *"AI is not just the future — it's the technology we build today to shape tomorrow."*
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjay-m-d">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/Medium-AI%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Let's build intelligent solutions together 🚀
+  <b>💬 I'm always happy to talk AI, answer questions, or explore collaboration — just reach out!</b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0f&height=120&section=footer" width="100%" />
