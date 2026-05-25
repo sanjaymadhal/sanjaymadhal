@@ -1,4 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:1a1a2e,100:16213e&height=260&section=header&text=Sanjay%20M%20D&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20GenAI%20Engineer%20%7C%20LLM%20Application%20Developer&descAlignY=60&descSize=18&descColor=64b5f6" width="100%" />
+<p align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="40%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#64b5f6;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#7c4dff;stop-opacity:0.1"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#64b5f6"/>
+      <stop offset="100%" style="stop-color:#7c4dff"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+  <!-- Wave shapes -->
+  <path d="M0,160 C150,120 300,180 450,140 C600,100 750,160 900,130 L900,200 L0,200 Z" fill="url(#wave1)"/>
+  <path d="M0,175 C200,145 400,190 600,160 C750,138 850,168 900,155 L900,200 L0,200 Z" fill="#64b5f6" fill-opacity="0.07"/>
+  <!-- Dot grid decoration -->
+  <circle cx="820" cy="35" r="2" fill="#64b5f6" fill-opacity="0.4"/>
+  <circle cx="840" cy="35" r="2" fill="#64b5f6" fill-opacity="0.4"/>
+  <circle cx="860" cy="35" r="2" fill="#64b5f6" fill-opacity="0.4"/>
+  <circle cx="820" cy="55" r="2" fill="#64b5f6" fill-opacity="0.25"/>
+  <circle cx="840" cy="55" r="2" fill="#64b5f6" fill-opacity="0.25"/>
+  <circle cx="860" cy="55" r="2" fill="#64b5f6" fill-opacity="0.25"/>
+  <circle cx="820" cy="75" r="2" fill="#64b5f6" fill-opacity="0.15"/>
+  <circle cx="840" cy="75" r="2" fill="#64b5f6" fill-opacity="0.15"/>
+  <circle cx="860" cy="75" r="2" fill="#64b5f6" fill-opacity="0.15"/>
+  <circle cx="60" cy="40" r="60" fill="#7c4dff" fill-opacity="0.06"/>
+  <!-- Name -->
+  <text x="450" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="white" text-anchor="middle" letter-spacing="2">Sanjay M D</text>
+  <!-- Accent underline -->
+  <rect x="310" y="98" width="280" height="3" rx="2" fill="url(#accent)" opacity="0.8"/>
+  <!-- Subtitle -->
+  <text x="450" y="132" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#64b5f6" text-anchor="middle" letter-spacing="1">AI &amp; GenAI Engineer  ·  LLM Application Developer  ·  RAG Systems</text>
+  <!-- Tag -->
+  <rect x="348" y="148" width="204" height="24" rx="12" fill="#64b5f6" fill-opacity="0.15" stroke="#64b5f6" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="450" y="164" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#64b5f6" text-anchor="middle" letter-spacing="1.5">🟢 OPEN TO AI ENGINEER ROLES</text>
+</svg>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=64B5F6&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;RAG+Pipelines+%7C+LangChain+%7C+LLM+Apps;LLM+Agents+%7C+Vector+Databases+%7C+FastAPI;1+Year+SWE+Intern+%E2%86%92+Upskilling+into+AI+Engineering;Open+to+AI+Engineer+%2F+GenAI+Engineer+Roles" alt="Typing SVG" />
@@ -156,4 +199,22 @@ sanjay = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0f&height=120&section=footer" width="100%" />
+<p align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#16213e"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="footerwave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#64b5f6;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:#7c4dff;stop-opacity:0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" fill="url(#footerbg)" rx="12"/>
+  <path d="M0,40 C200,10 400,70 600,30 C750,5 850,45 900,25 L900,0 L0,0 Z" fill="url(#footerwave)"/>
+  <path d="M0,55 C150,30 350,75 550,40 C700,15 820,55 900,38 L900,0 L0,0 Z" fill="#64b5f6" fill-opacity="0.05"/>
+  <text x="450" y="68" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#64b5f6" fill-opacity="0.7" text-anchor="middle">⭐ Thanks for visiting — let's build intelligent solutions together 🚀</text>
+</svg>
+</p>
