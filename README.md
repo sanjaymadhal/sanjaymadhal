@@ -31,11 +31,6 @@
   <circle cx="840" cy="75" r="2" fill="#64b5f6" fill-opacity="0.15"/>
   <circle cx="860" cy="75" r="2" fill="#64b5f6" fill-opacity="0.15"/>
   <circle cx="60" cy="40" r="60" fill="#7c4dff" fill-opacity="0.06"/>
-  <!-- Name -->
-  <text x="450" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="white" text-anchor="middle" letter-spacing="2">Sanjay M D</text>
-  <!-- Accent underline -->
-  <rect x="310" y="98" width="280" height="3" rx="2" fill="url(#accent)" opacity="0.8"/>
-  <!-- Subtitle -->
   <text x="450" y="132" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#64b5f6" text-anchor="middle" letter-spacing="1">AI &amp; GenAI Engineer  ·  LLM Application Developer  ·  RAG Systems</text>
 </svg>
 </p>
